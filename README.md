@@ -1,0 +1,1 @@
+We intended to make the synthetic data publicly	available here. However, we are going through an internal approval process at Elevance Health Inc and will upload the data when we are approved to do so. Please contact Dr. Jingpu Shi (jingpu.shi@carelon.com) if you have any questions. Thank you for your interests in our work !
